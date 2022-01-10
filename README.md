@@ -8,9 +8,9 @@ This is a command-line interface application written in python that finds the qu
 
 **This project uses python 3.7 and the following packages:**
 
-```fire  - command line interface 
+* fire  - command line interface 
 
-questionary - for user prompts and dialog``` 
+* questionary - for user prompts and dialog
 
 ---
 
