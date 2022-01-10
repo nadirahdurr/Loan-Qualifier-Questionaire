@@ -32,10 +32,13 @@ To use the Loan Quaifier Questionaire clone the repository and run the `app.py`
 
 After running you will be prompted with questions that will be help find a list of qualifying loans for you. 
 
+![Loan Questions](images/loan-questions.png)
+
 **Please make sure you answer each question as accurrate as possible.** 
 
 You will be promoted to save your qualifying loans to a csv if your total number of qualifying loans is greater than 0. 
 
+![Save Loans](images/save-loans.png)
 
 ---
 
