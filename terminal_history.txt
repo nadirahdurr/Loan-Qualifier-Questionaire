@@ -1,28 +1,3 @@
-  474  python app.py --credit_score=750
-  475  python app.py --credit_score=750 --debt=9000
-  476  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
-  477  conda activate base
-  478  conda activate dev
-  479  cd Desktop/
-  480  cd dialog.py 
-  481  python dialog.py 
-  482  python dialog.py 
-  483  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
-  484  conda activate base
-  485   /usr/bin/env /Users/nadirahlinaa/opt/anaconda3/bin/python /Users/nadirahlinaa/.vscode/extensions/ms-python.python-2021.8.1159798656/pythonFiles/lib/python/debugpy/launcher 58159 -- /Users/nadirahlinaa/Desktop/Loan-Qualifier-Questionaire/app.py 
-  486  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
-  487  conda activate base
-  488  conda activate dev
-  489  ls
-  490  python app.py 
-  491  python app.py 
-  492  python app.py 
-  493  python app.py 
-  494  python app.py 
-  495  clear
-  496  python app.py 
-  497  python app.py 
-  498  python app.py 
   499  python app.py 
   500  python app.py 
   501  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
@@ -48,3 +23,28 @@
   521  clear
   522  python app.py 
   523  history 50 > terminal_history.txt
+  524  git status
+  525  git status
+  526  git add .
+  527  git commit -m "added save function and questions for user"
+  528  git push
+  529  git push
+  530  python app.py 
+  531  python app.py 
+  532  python app.py 
+  533  python app.py 
+  534  python app.py 
+  535  python app.py 
+  536  python app.py 
+  537  python app.py 
+  538  python app.py 
+  539  python app.py 
+  540  python app.py 
+  541  python app.py 
+  542  python app.py 
+  543  python app.py 
+  544  git status
+  545  git add .
+  546  git commit -m "added saved qualifying loan csv file and added condition to check for no qualifying loans"
+  547  git push
+  548  history 50 > terminal_history.txt
