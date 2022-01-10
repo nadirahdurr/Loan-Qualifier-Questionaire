@@ -8,9 +8,9 @@ This is a command-line interface application written in python that finds the qu
 
 **This project uses python 3.7 and the following packages:**
 
-* fire  - command line interface 
+* [fire](https://pypi.org/project/fire/)  - command line interface that fires off your command
 
-* questionary - for user prompts and dialog
+* [questionary](https://pypi.org/project/questionary/) - for user prompts and dialog
 
 ---
 
@@ -18,8 +18,9 @@ This is a command-line interface application written in python that finds the qu
 
 **Before running application you need to install the following:**
 
-pip install fire 
-pip install questionary
+`pip install fire`
+
+`pip install questionary`
 
 ---
 
@@ -29,13 +30,14 @@ To use the Loan Quaifier Questionaire clone the repository and run the `app.py`
 
 python app.py
 
-After running you will be prompted with questions that will be help find a list of qualifying loans for you. Please make sure you answer each as accurrate as possible. 
+After running you will be prompted with questions that will be help find a list of qualifying loans for you. **Please make sure you answer each question as accurrate as possible.** 
 
 ---
 
 ## Contributors
 
 Nadirah Durr
+
 nadirahdurr@yahoo.com
 
 ---
