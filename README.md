@@ -1,6 +1,6 @@
 # Loan-Qualifier-Questionaire
 
-This is a command-line interface application written in python that finds the qualifying loans by prompting the user. 
+This is a command-line interface application written in python that finds bank loans by prompting the user with questions to determine which loans they are qualified for . 
 
 ---
 
@@ -36,9 +36,11 @@ After running you will be prompted with questions that will be help find a list 
 
 **Please make sure you answer each question as accurrate as possible.** 
 
-You will be promoted to save your qualifying loans to a csv if your total number of qualifying loans is greater than 0. 
+You will be promoted to save your qualifying loans to a csv file if the total number of qualifying loans is greater than 0. 
 
 ![Save Loans](images/save-loans.png)
+
+
 
 ---
 
