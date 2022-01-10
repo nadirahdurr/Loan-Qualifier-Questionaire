@@ -1,0 +1,50 @@
+  474  python app.py --credit_score=750
+  475  python app.py --credit_score=750 --debt=9000
+  476  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
+  477  conda activate base
+  478  conda activate dev
+  479  cd Desktop/
+  480  cd dialog.py 
+  481  python dialog.py 
+  482  python dialog.py 
+  483  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
+  484  conda activate base
+  485   /usr/bin/env /Users/nadirahlinaa/opt/anaconda3/bin/python /Users/nadirahlinaa/.vscode/extensions/ms-python.python-2021.8.1159798656/pythonFiles/lib/python/debugpy/launcher 58159 -- /Users/nadirahlinaa/Desktop/Loan-Qualifier-Questionaire/app.py 
+  486  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
+  487  conda activate base
+  488  conda activate dev
+  489  ls
+  490  python app.py 
+  491  python app.py 
+  492  python app.py 
+  493  python app.py 
+  494  python app.py 
+  495  clear
+  496  python app.py 
+  497  python app.py 
+  498  python app.py 
+  499  python app.py 
+  500  python app.py 
+  501  source /Users/nadirahlinaa/opt/anaconda3/bin/activate
+  502  conda activate base
+  503  conda activate dev
+  504  python app.py 
+  505  python app.py 
+  506  clear
+  507  python app.py 
+  508  python app.py 
+  509  python app.py 
+  510  python app.py 
+  511  python app.py 
+  512  python app.py 
+  513  python app.py 
+  514  python app.py 
+  515  python app.py 
+  516  python app.py 
+  517  python app.py 
+  518  python app.py 
+  519  python app.py 
+  520  clear
+  521  clear
+  522  python app.py 
+  523  history 50 > terminal_history.txt
