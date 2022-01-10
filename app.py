@@ -109,13 +109,18 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-
-    answer = questionary.confirm("Would you like to save your qualifying loans?").ask()
     
-    if answer == True :
-        csvpath = questionary.text("What is the output file path?").ask()
-        csvpath = Path(csvpath)
-        save_csv(csvpath, qualifying_loans)
+    if len(qualifying_loans) == 0:
+        sys.exit("There are no qualifying loans to save.")
+    else:
+        answer = questionary.confirm("Would you like to save your qualifying loans?").ask()  
+        if answer == True:
+            csvpath = questionary.text("What is the output file path?").ask()
+            csvpath = Path(csvpath)
+            save_csv(csvpath, qualifying_loans)     
+        
+
+
 
 
 def run():
